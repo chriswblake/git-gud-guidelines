@@ -40,3 +40,8 @@ Mistakes I made (or saw) from scientists learning to code.
 - OMG, create a README and add at least 1 non-generic sentence.
     - Describing the project breifly.
     - Clarify any acronyms in the repo name.
+
+# Help others git gud 🤓
+Want to share your own nugget of wisdom or funny meme? Awesome!  
+Check out the [share your guds](docs/share-your-guds.md) page for a step-by-step guide. 🧑‍🚀
+
