@@ -11,6 +11,8 @@ Maybe he introduced the idea of forking a repo, creating a branch, making some c
 
 # Let's Git Gud
 
+[**Educational Memes**](educational-memes.md) - When 1000 words just aren't enough...
+
 ## Tips from a data scientist that made that mistake already
 Mistakes I made (or saw) from scientists learning to code.
 
